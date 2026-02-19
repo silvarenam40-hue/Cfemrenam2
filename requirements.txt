@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+plotly
+python-pptx
+requests
+
